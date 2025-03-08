@@ -1,6 +1,10 @@
+Name:Yeleswarapu Sri Lalitha
+
+
+
 AI Resume Screening & Candidate Ranking System
 
-Overview
+OVERVIEW
 
 This project is an AI-powered Resume Screening & Candidate Ranking System built using Streamlit, PyPDF2, and Scikit-learn. The system ranks resumes based on their relevance to a given job description using TF-IDF vectorization and cosine similarity.
 
